@@ -3,6 +3,7 @@ export const SONRAKI_FILM = 'SONRAKI_FILM';
 export const ONCEKI_FILM = 'ONCEKI_FILM';
 export const LISTEYE_EKLE = 'LISTEYE_EKLE';
 export const LISTEDEN_CIKAR = 'LISTEDEN_CIKAR';
+export const TARIH_EKLE = 'TARIH_EKLE';
 
 // action creators
 export function sonrakiFilm() {
